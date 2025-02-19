@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Draw(er) Pro</string>
+<string name="version">0.8.5</string><string name="color_h">Hue</string>
+<string name="color_s">Saturation</string>
+<string name="color_v">Brightness</string>
+<string name="size_brush">Brush Size</string>
+
+</resources>
