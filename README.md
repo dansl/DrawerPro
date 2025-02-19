@@ -21,4 +21,4 @@ Features:
   * Circles
   * Web
 
-Original idea and drawing algorithms from [mrdoob.com](mrdoob.com)
+Original idea and drawing algorithms from [mrdoob.com](https://mrdoob.com)
